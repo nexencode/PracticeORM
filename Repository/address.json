@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Street": "Zaplanjska 18",
+    "City": "Nis",
+    "PostCode": 18100,
+    "CountryId": 0
+  },
+  {
+    "ID": 2,
+    "Street": "Zaplanjska 18",
+    "City": "Nis",
+    "PostCode": 18100,
+    "CountryId": 1
+  }
+]
